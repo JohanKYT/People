@@ -8,7 +8,6 @@ public partial class App : Application
 	{
 		InitializeComponent();
         // TODO: Initialize the PersonRepository property with the PersonRespository singleton object
-        InitializeComponent();
         PersonRepo = repo;
 
     }
